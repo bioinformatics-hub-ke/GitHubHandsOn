@@ -17,6 +17,6 @@ Below are few rules:
 6. **Cloning:** The easiest way to get started is to clone our [GitHub repository](https://github.com/bioinformatics-hub-ke/ParticipantsList-GitHandsOn/tree/main).
 
 
-### Acknoledgement:
+### Acknowledgment:
 
 The idea for this tutorial was developed by [Samuel Coulbourn Flores](https://github.com/samuelflores) for the [MedBioInfo](https://www.medbioinfo.se/) course. It has been adapted for use in this workshop.
