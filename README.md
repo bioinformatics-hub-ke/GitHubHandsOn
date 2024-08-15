@@ -19,4 +19,4 @@ Below are few rules:
 
 ### Acknoledgement:
 
-The original idea for this tutorial was developed by [Samuel Coulbourn Flores](https://github.com/samuelflores) for the [MedBioInfo](https://www.medbioinfo.se/) course. It has been adapted for use in this workshop.
+The idea for this tutorial was developed by [Samuel Coulbourn Flores](https://github.com/samuelflores) for the [MedBioInfo](https://www.medbioinfo.se/) course. It has been adapted for use in this workshop.
